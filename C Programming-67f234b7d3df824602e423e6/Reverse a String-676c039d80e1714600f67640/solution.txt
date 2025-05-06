@@ -1,0 +1,1 @@
+[{"code":"#include<stdio.h>\r\nint main(){\r\n    char name[100];\r\n    gets(name);\r\n    puts(name);\r\n    return 0;\r\n}","language":"c","time":"2025-05-06T13:20:54.425Z","isCorrect":false}]
